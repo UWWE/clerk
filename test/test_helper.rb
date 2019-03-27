@@ -14,5 +14,6 @@ module Clerk
   class TestCase < ::Minitest::Test
     extend Testing::Declarative
     include Testing::Path
+    include Testing::Fixture
   end
 end

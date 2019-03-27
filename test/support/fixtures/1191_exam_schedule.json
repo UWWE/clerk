@@ -1,0 +1,113 @@
+{
+  "meta":{
+    "requests":149,
+    "timestamp":1382375438,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1187,
+    "version":2.07,
+    "method":{
+
+    }
+  },
+  "data":[
+    {
+      "course":"ACTSC 221",
+      "sections":[
+        {
+          "section":"001",
+          "day":"Thursday",
+          "date":"2013-12-19",
+          "start_time":"12:30 PM",
+          "end_time":"3:00 PM",
+          "location":"PAC 1",
+          "notes":""
+        }
+      ]
+    },
+    {
+      "course":"ACTSC 231",
+      "sections":[
+        {
+          "section":"001",
+          "day":"Thursday",
+          "date":"2013-12-19",
+          "start_time":"9:00 AM",
+          "end_time":"11:30 AM",
+          "location":"PAC 4,5,6",
+          "notes":""
+        }
+      ]
+    },
+    {
+      "course":"ACTSC 232",
+      "sections":[
+        {
+          "section":"001",
+          "day":"Thursday",
+          "date":"2013-12-05",
+          "start_time":"9:00 AM",
+          "end_time":"11:30 AM",
+          "location":"MC 4059,4060,4061",
+          "notes":""
+        }
+      ]
+    },
+    {
+      "course":"ACTSC 331",
+      "sections":[
+        {
+          "section":"001",
+          "day":"Friday",
+          "date":"2013-12-06",
+          "start_time":"12:30 PM",
+          "end_time":"3:00 PM",
+          "location":"PAC 8",
+          "notes":""
+        }
+      ]
+    },
+    {
+      "course":"ACTSC 371",
+      "sections":[
+        {
+          "section":"001",
+          "day":"Friday",
+          "date":"2013-12-13",
+          "start_time":"9:00 AM",
+          "end_time":"11:30 AM",
+          "location":"M3 1006,MC 1056",
+          "notes":""
+        }
+      ]
+    },
+    {
+      "course":"ACTSC 372",
+      "sections":[
+        {
+          "section":"001",
+          "day":"Tuesday",
+          "date":"2013-12-10",
+          "start_time":"12:30 PM",
+          "end_time":"3:00 PM",
+          "location":"PAC 1,2",
+          "notes":""
+        }
+      ]
+    },
+    {
+      "course":"ACTSC 431",
+      "sections":[
+        {
+          "section":"001",
+          "day":"Wednesday",
+          "date":"2013-12-11",
+          "start_time":"4:00 PM",
+          "end_time":"6:30 PM",
+          "location":"MC 2034,2035,2038",
+          "notes":""
+        }
+      ]
+    }
+  ]
+}

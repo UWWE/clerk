@@ -26,7 +26,7 @@ module Clerk
     def with_file(path)
       FileUtils.mkdir_p(File.dirname(path))
 
-      yield File.open(path, 'w')
+      File.open(path, 'w') { |file| yield file }
     end
 
     private

@@ -1,0 +1,251 @@
+{
+  "data": [
+    {
+      "subject": "MATH",
+      "catalog_number": "97",
+      "units": 2.5,
+      "title": "Study Abroad",
+      "note": null,
+      "class_number": 5407,
+      "section": "LEC 001",
+      "campus": "OFF ABROAD",
+      "associated_class": 1,
+      "related_component_1": null,
+      "related_component_2": null,
+      "enrollment_capacity": 20,
+      "enrollment_total": 27,
+      "waiting_capacity": 0,
+      "waiting_total": 0,
+      "topic": null,
+      "reserves": [
+
+      ],
+      "classes": [
+        {
+          "dates": {
+            "start_time": null,
+            "end_time": null,
+            "weekdays": null,
+            "start_date": null,
+            "end_date": null,
+            "is_tba": true,
+            "is_cancelled": false,
+            "is_closed": false
+          },
+          "location": {
+            "building": null,
+            "room": null
+          },
+          "instructors": [
+
+          ]
+        }
+      ],
+      "held_with": [
+
+      ],
+      "term": 1139,
+      "academic_level": "undergraduate"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "103",
+      "units": 0.5,
+      "title": "Introductory Algebra for Arts and Social Science",
+      "note": null,
+      "class_number": 5298,
+      "section": "LEC 001",
+      "campus": "UW U",
+      "associated_class": 1,
+      "related_component_1": "101",
+      "related_component_2": null,
+      "enrollment_capacity": 60,
+      "enrollment_total": 51,
+      "waiting_capacity": 0,
+      "waiting_total": 0,
+      "topic": null,
+      "reserves": [
+        {
+          "reserve_group": "PSYCH students ",
+          "enrollment_capacity": 34,
+          "enrollment_total": 29
+        }
+      ],
+      "classes": [
+        {
+          "dates": {
+            "start_time": "12:30",
+            "end_time": "13:20",
+            "weekdays": "MWF",
+            "start_date": null,
+            "end_date": null,
+            "is_tba": false,
+            "is_cancelled": false,
+            "is_closed": false
+          },
+          "location": {
+            "building": "MC",
+            "room": "4040"
+          },
+          "instructors": [
+            "Ferguson,Barry"
+          ]
+        }
+      ],
+      "held_with": [
+
+      ],
+      "term": 1139,
+      "academic_level": "undergraduate"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "103",
+      "units": 0.5,
+      "title": "Introductory Algebra for Arts and Social Science",
+      "note": null,
+      "class_number": 5299,
+      "section": "TUT 101",
+      "campus": "UW U",
+      "associated_class": 1,
+      "related_component_1": null,
+      "related_component_2": null,
+      "enrollment_capacity": 60,
+      "enrollment_total": 51,
+      "waiting_capacity": 0,
+      "waiting_total": 0,
+      "topic": null,
+      "reserves": [
+
+      ],
+      "classes": [
+        {
+          "dates": {
+            "start_time": "16:30",
+            "end_time": "17:20",
+            "weekdays": "T",
+            "start_date": null,
+            "end_date": null,
+            "is_tba": false,
+            "is_cancelled": false,
+            "is_closed": false
+          },
+          "location": {
+            "building": "MC",
+            "room": "4040"
+          },
+          "instructors": [
+
+          ]
+        }
+      ],
+      "held_with": [
+
+      ],
+      "term": 1139,
+      "academic_level": "undergraduate"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "103",
+      "units": 0.5,
+      "title": "Introductory Algebra for Arts and Social Science",
+      "note": null,
+      "class_number": 9375,
+      "section": "LEC 081",
+      "campus": "ONLN ONLINE",
+      "associated_class": 81,
+      "related_component_1": null,
+      "related_component_2": null,
+      "enrollment_capacity": 45,
+      "enrollment_total": 33,
+      "waiting_capacity": 0,
+      "waiting_total": 0,
+      "topic": null,
+      "reserves": [
+        {
+          "reserve_group": "PSYCH students ",
+          "enrollment_capacity": 8,
+          "enrollment_total": 8
+        }
+      ],
+      "classes": [
+        {
+          "dates": {
+            "start_time": null,
+            "end_time": null,
+            "weekdays": null,
+            "start_date": null,
+            "end_date": null,
+            "is_tba": true,
+            "is_cancelled": false,
+            "is_closed": false
+          },
+          "location": {
+            "building": null,
+            "room": null
+          },
+          "instructors": [
+            "Ferguson,Barry"
+          ]
+        }
+      ],
+      "held_with": [
+
+      ],
+      "term": 1139,
+      "academic_level": "undergraduate"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "104",
+      "units": 0.5,
+      "title": "Introductory Calculus for Arts and Social Science",
+      "note": null,
+      "class_number": 5613,
+      "section": "LEC 001",
+      "campus": "UW U",
+      "associated_class": 1,
+      "related_component_1": "101",
+      "related_component_2": null,
+      "enrollment_capacity": 90,
+      "enrollment_total": 75,
+      "waiting_capacity": 0,
+      "waiting_total": 0,
+      "topic": null,
+      "reserves": [
+        {
+          "reserve_group": "Year 1 Arts students ",
+          "enrollment_capacity": 28,
+          "enrollment_total": 24
+        }
+      ],
+      "classes": [
+        {
+          "dates": {
+            "start_time": "09:30",
+            "end_time": "10:20",
+            "weekdays": "MWF",
+            "start_date": null,
+            "end_date": null,
+            "is_tba": false,
+            "is_cancelled": false,
+            "is_closed": false
+          },
+          "location": {
+            "building": "MC",
+            "room": "2038"
+          },
+          "instructors": [
+            "Ali Akbari,Shahla"
+          ]
+        }
+      ],
+      "held_with": [
+
+      ],
+      "term": 1139,
+      "academic_level": "undergraduate"
+    }
+  ]
+}
