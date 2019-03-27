@@ -67,6 +67,7 @@ module Clerk
           'subject',
           'catalog_number',
           'title',
+          'section',
           'enrollment_capacity',
           'enrollment_total',
         )
@@ -77,6 +78,8 @@ module Clerk
           'start_time',
           'end_time',
           'weekdays',
+          'start_date',
+          'end_date',
         )
       end
     end
