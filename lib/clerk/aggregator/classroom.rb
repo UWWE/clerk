@@ -17,6 +17,8 @@ module Clerk
         classroom.each do |building, rooms|
           yield local_json_for(building), rooms
         end
+
+        yield local_json_for('buildings'), classroom.keys
       end
 
       private

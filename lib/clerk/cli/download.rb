@@ -10,7 +10,7 @@ module Clerk
       def course_schedule(term)
         require 'clerk/resource/subject'
 
-        Subject.all.each do |subject|
+        Resource::Subject.all.each do |subject|
           subject.schedule(term).download
         end
       end

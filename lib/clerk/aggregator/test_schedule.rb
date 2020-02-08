@@ -2,11 +2,12 @@
 
 require 'json'
 require 'clerk'
+require 'clerk/aggregator/base'
 require 'clerk/resource/subject'
 
 module Clerk
   module Aggregator
-    class TestSchedule
+    class TestSchedule < Base
       def initialize(term:)
         @term = term
       end
